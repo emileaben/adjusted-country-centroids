@@ -11,5 +11,5 @@ If you have a centroid that you like to move, please add it to the centroids.csv
 If we have enough centroids, we can try convince geoloc providers to start using these alternatives.
 
 Background:
-Problems for a farmer in NL: https://nos.nl/artikel/2365293-dronter-gezin-al-jaren-bedreigd-vanwege-geografische-coordinaten.html
-USA centroid: TODO find this news item
+* Problems for a farmer in NL: https://nos.nl/artikel/2365293-dronter-gezin-al-jaren-bedreigd-vanwege-geografische-coordinaten.html
+* Problems for the centroid in the USA: https://www.theguardian.com/technology/2016/aug/09/maxmind-mapping-lawsuit-kansas-farm-ip-address
