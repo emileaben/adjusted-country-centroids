@@ -9,3 +9,7 @@ centroid of a country but can't be confused for postal addresses. Bodies of wate
 If you have a centroid that you like to move, please add it to the centroids.csv file
 
 If we have enough centroids, we can try convince geoloc providers to start using these alternatives.
+
+Background:
+Problems for a farmer in NL: https://nos.nl/artikel/2365293-dronter-gezin-al-jaren-bedreigd-vanwege-geografische-coordinaten.html
+USA centroid: TODO find this news item
